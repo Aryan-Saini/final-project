@@ -354,7 +354,7 @@ my little fish,pause button, shark and air bubbles, reset button and continue bu
 my text is "Click W,A,S,D to make the shark move faster.  You can't eat the fish."
 
 2)  My one (or more) self-taught animation is/are (PLEASE INCLUDE LINKS):
-I learned to make arrays
+I learned to make arrays by this video https://www.youtube.com/watch?v=NptnmWvkbTw and this link https://processing.org/reference/
 
 3)  My four (or more) animations that were not learned from online tutorials are:
 making things move 
